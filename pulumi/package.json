@@ -1,0 +1,13 @@
+{
+    "name": "post-task-survey",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/pulumi": "^3.0.0",
+        "twilio": "^3.76.1",
+        "twilio-pulumi-provider": "^0.0.13"
+    },
+    "devDependencies": {
+        "@twilio/flex-ui": "2.0.0-alpha.15",
+        "react-test-renderer": "17.0.2"
+      }
+}

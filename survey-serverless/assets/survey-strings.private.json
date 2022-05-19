@@ -1,0 +1,5 @@
+{
+    "surveyMessage": "Please rate the last conversation, from 1 to 5",
+    "thankYouMessage": "Thank you!",
+    "retryMessage": "Sorry. Invalid response. Please rate the conversation from 1 to 5"
+}

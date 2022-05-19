@@ -1,0 +1,18 @@
+{
+  "name": "plugin-post-task-survey",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "postinstall": "flex-plugin pre-script-check"
+  },
+  "dependencies": {
+    "@twilio/flex-plugin-scripts": "5.0.6",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-emotion": "9.2.12"
+  },
+  "devDependencies": {
+    "@twilio/flex-ui": "^1.31",
+    "react-test-renderer": "17.0.2"
+  }
+}
